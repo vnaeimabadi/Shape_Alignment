@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="usernameEditText" type="id" />
+    <item name="signIn_button" type="id" />
+    <item name="mainBody" type="id" />
+    <item name="mainHeader" type="id" />
+    <item name="mainHeaderChild" type="id" />
+    <item name="signIn_buttons" type="id" />
+    <item name="passwordEditText" type="id" />
+</resources>
